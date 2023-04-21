@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="title1">Iguana</string>
+    <string name="title2">Misty heather field\nin full bloom</string>
+    <string name="title3">Reach the winter</string>
+    <string name="title4">Family</string>
+    <string name="title5">Honor fight</string>
+    <string name="title6">The barn owl has landed</string>
+    <string name="title7">Mother Bekantan</string>
+    <string name="title8">Mother Love</string>
+
+    <string name="location1">Indonesia</string>
+    <string name="location2">Netherlands</string>
+    <string name="location3">Mongolia</string>
+    <string name="location4">Thailand</string>
+    <string name="location5">Indonesia</string>
+    <string name="location6">UK</string>
+    <string name="location7">Indonesia</string>
+    <string name="location8">Australia</string>
+
+    <string name="artist1">\@JJNMATT</string>
+    <string name="artist2">\@GLENNANTHONIE</string>
+    <string name="artist3">\@DANGTHAO</string>
+    <string name="artist4">\@MANNYLIBRODO</string>
+    <string name="artist5">\@JORDISARK</string>
+    <string name="artist6">\@PHILROBSON</string>
+    <string name="artist7">\@IRAWANSUBINGAR</string>
+    <string name="artist8">\@OLMOSPATRICIA</string>
+
+    <string name="button_previous">Previous</string>
+    <string name="button_next">Next</string>
+
+</resources>
